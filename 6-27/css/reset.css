@@ -1,0 +1,42 @@
+/* CSS Document */
+body,h1,h2,h3,h4,h5,h6,p,dl,dd{
+	margin:0;
+	font-weight:normal;
+	font-size:12px;
+	font-family:"宋体";
+	color:#3c3c3c;
+}
+body{
+	background-color:#fff;
+	}
+a{
+	text-decoration:none;
+	color:inherit;	
+}
+ul,ol{
+	list-style:none;
+	margin:0;
+	padding:0;	
+}
+b,strong{
+	font-weight:normal;	
+}
+i,em{
+	font-style:normal;	
+}
+mark{
+	background:none;
+	color:inherit;	
+}
+input,fieldset,textarea{
+	padding:0;
+	border:none;
+	background:none;
+	margin:0;
+	vertical-align:top;	
+	outline:none;
+}
+img{
+	vertical-align:top;
+	border:0;
+	}
